@@ -2,7 +2,7 @@
 title: "Evaluating diversity of multiword expressions in annotated text"
 collection: publications
 permalink: /publication/COLING_1
-excerpt: 'This paper relates to the work during my internship at LISN focusing on diversity measures for multiword expression annotation.'
+excerpt: 'This paper relates to the work I've done during my internship at LISN focusing on diversity measures for multiword expression annotation.'
 date: 2022-10-12
 venue: 'the Proceedings of the 29th International Conference on Computational Linguistics'
 paperurl: 'https://aclanthology.org/2022.coling-1.290.pdf'
