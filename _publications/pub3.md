@@ -1,0 +1,12 @@
+---
+title: "CiteScreener: A Pipeline for Citation Verification in Digital Libraries with Datasets"
+collection: publications
+permalink: /publication/JCDL
+excerpt: 'Nanobubbles Grenoble Team's work on building a pipeline for citation verification.'
+date: 2025-12-15
+venue: 'Proceedings of the ACM/IEEE Joint Conference on Digital Libraries JCDL 2025'
+paperurl: 'https://hal.science/hal-05358001v2/file/jcdl.pdf'
+citation: ''
+---
+
+The growing number of scientific publications in digital formats makes citations important in scientific digital libraries (SDLs) as they are used to record scientific publications. However, unreliable citations, arising from unintentional errors or deliberate manipulation, such as paper mill activity, pose a growing threat to the integrity of scholarly records. These issues can distort query results, inflate or deflate scholarly metrics, and mislead decision-making systems that rely on citation data. To address this challenge, we present an open-source pipeline designed to automatically assist in estimating citation relevance. Our pipeline integrates citation context extraction, cited literature retrieval, and multi-method citation evaluation (including text overlap techniques and state-of-the-art language models) to detect citations that are irrelevant to the research they reference. We develop and benchmark two datasets to evaluate these methods and select the most effective combination for integration. Finally, we validate the pipeline using real scientific papers to demonstrate its practical applicability. We also assess our pipeline with real scientific papers to check its practical application. Our work provides SDLs, publishers, and research integrity professionals with a practical assisting tool to enhance citation verification efforts.
