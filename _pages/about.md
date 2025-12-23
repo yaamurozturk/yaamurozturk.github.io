@@ -12,11 +12,16 @@ Glad to see you here!
 I am a PhD candidate in computer science working on open science, scholarly publishing, and research integrity within the European Research Council (ERC) Synergy project [*Nanobubbles*](https://nanobubbles.hypotheses.org/). This project focuses on "*How, when and why science fails to correct itself?*", and so do I. 
 
 <div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
-  <img src="/images/nanobubbles_logo.png" alt="Image 1" style="width:200px;">
-  <img src="/images/lig_logo.png" alt="Image 2" style="width:200px;">
-  <img src="/images/uga_logo.png" alt="Image 3" style="width:200px;">
+  <img src="/images/nanobubbles_logo.png"
+       alt="Image 1"
+       style="width:150px; height:auto;">
+  <img src="/images/lig_logo.png"
+       alt="Image 2"
+       style="width:150px; height:auto;">
+  <img src="/images/lig_logo.png.png"
+       alt="Image 3"
+       style="width:150px; height:auto;">
 </div>
-
 
 Throughout my PhD, I worked on developing methods and tools to support post-publication peer review and to better understand the propagation of unreliable research in the scientific literature, particularly regarding citations to retracted publications. You can check out my [publications](https://yaamurozturk.github.io/publications/) and [talks](https://yaamurozturk.github.io/talks/) to learn more about my research. 
 
