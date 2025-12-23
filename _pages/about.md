@@ -18,7 +18,7 @@ I am a PhD candidate in computer science working on open science, scholarly publ
   <img src="/images/lig_logo.png"
        alt="Image 2"
        style="width:150px; height:auto;">
-  <img src="/images/lig_logo.png.png"
+  <img src="/images/lig_logo.png"
        alt="Image 3"
        style="width:150px; height:auto;">
 </div>
