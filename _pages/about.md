@@ -14,7 +14,7 @@ I am a PhD candidate in computer science working on open science, scholarly publ
 <div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
   <img src="/images/nanobubbles_logo.png"
        alt="Image 1"
-       style="width:150px; height:auto;">
+       style="width:100px; height:auto;">
   <img src="/images/lig_logo.png"
        alt="Image 2"
        style="width:100px; height:auto;">
