@@ -14,4 +14,43 @@
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="#ffffff"/>
 
+
+<style>
+.mascot-hover {
+  position: relative;
+  width: 100%;
+  max-width: 300px;
+  margin-top: 0.5rem;
+}
+
+.mascot-img {
+  width: 100%;
+  height: auto;
+  display: block;
+  transition: opacity 0.4s ease;
+}
+
+.mascot-img:not(.base) {
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+}
+
+/* First hover: Christmas */
+.mascot-hover:hover .hover1 {
+  opacity: 1;
+}
+
+/* Hide base on hover */
+.mascot-hover:hover .base {
+  opacity: 0;
+}
+
+/* Optional: cycle effect (subtle) */
+.mascot-hover:hover .hover2 {
+  transition-delay: 0.2s;
+}
+</style>
+
 <!-- end custom head snippets -->
