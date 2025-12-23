@@ -6,7 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome! 
+
+Glad to see you here! 
 
 I am a PhD candidate in computer science working on open science, scholarly publishing, and research integrity within the European Research Council (ERC) Synergy project [*Nanobubbles*](https://nanobubbles.hypotheses.org/). This project focuses on *How, when and why science fails to correct itself?*, and so do I. 
 
