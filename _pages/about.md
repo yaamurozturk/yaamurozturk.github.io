@@ -17,10 +17,10 @@ I am a PhD candidate in computer science working on open science, scholarly publ
        style="width:150px; height:auto;">
   <img src="/images/lig_logo.png"
        alt="Image 2"
-       style="width:150px; height:auto;">
+       style="width:100px; height:auto;">
   <img src="/images/uga_logo.png"
        alt="Image 3"
-       style="width:150px; height:auto;">
+       style="width:100px; height:auto;">
 </div>
 
 Throughout my PhD, I worked on developing methods and tools to support post-publication peer review and to better understand the propagation of unreliable research in the scientific literature, particularly regarding citations to retracted publications. You can check out my [publications](https://yaamurozturk.github.io/publications/) and [talks](https://yaamurozturk.github.io/talks/) to learn more about my research. 
