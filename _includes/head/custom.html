@@ -1,69 +1,17 @@
-<style>
-:root {
-  /* Core background & text */
-  --global-bg-color: #11151c;          /* Ink Black */
-  --global-text-color: #e6e8eb;        /* Lightened for readability */
-  --global-muted-text-color: #9aa3ad;
+{% include base_path %}
 
-  /* Headers */
-  --global-header-color: #d66853;      /* Rosy Copper */
+<!-- start custom head snippets -->
 
-  /* Links */
-  --global-link-color: #d66853;         /* Rosy Copper */
-  --global-link-hover-color: #7d4e57;   /* Burnt Rose */
+<!-- Support for Academicons -->
+<link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
 
-  /* Panels / cards / nav */
-  --global-card-bg-color: #212d40;      /* Deep Space Blue */
-  --global-border-color: #364156;       /* Charcoal Blue */
+<!-- favicon from https://commons.wikimedia.org/wiki/File:OOjs_UI_icon_academic-progressive.svg -->
+<link rel="apple-touch-icon" sizes="180x180" href="{{ base_path }}/images/apple-touch-icon-180x180.png"/>
+<link rel="icon" type="image/svg+xml" href="{{ base_path }}/images/favicon.svg"/>
+<link rel="icon" type="image/png" href="{{ base_path }}/images/favicon-32x32.png" sizes="32x32"/>
+<link rel="icon" type="image/png" href="{{ base_path }}/images/favicon-192x192.png" sizes="192x192"/>
+<link rel="manifest" href="{{ base_path }}/images/manifest.json"/>
+<link rel="icon" href="/images/favicon.ico"/>
+<meta name="theme-color" content="#ffffff"/>
 
-  /* Code blocks */
-  --global-code-bg-color: #212d40;
-  --global-code-text-color: #f1f1f1;
-
-  /* Tables */
-  --global-table-header-bg: #212d40;
-  --global-table-border-color: #364156;
-}
-
-/* Body refinements */
-body {
-  background-color: var(--global-bg-color);
-  color: var(--global-text-color);
-}
-
-/* Sidebar / navigation */
-.sidebar,
-.masthead,
-.page__footer {
-  background-color: #212d40;
-  border-color: #364156;
-}
-
-/* Headings */
-h1, h2, h3, h4, h5, h6 {
-  color: #d66853;
-}
-
-/* Links */
-a {
-  color: #d66853;
-}
-a:hover {
-  color: #7d4e57;
-}
-
-/* Code blocks */
-pre, code {
-  background-color: #212d40;
-  color: #f1f1f1;
-  border: 1px solid #364156;
-}
-
-/* Tables */
-table th {
-  background-color: #212d40;
-}
-table td, table th {
-  border-color: #364156;
-}
-</style>
+<!-- end custom head snippets -->
