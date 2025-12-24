@@ -6,7 +6,6 @@ excerpt: "COSIG's wise mascot was inspired by the [Chinese Giant Salamander](htt
 <img src="{{ '/images/original_sal.png' | relative_url }}"
      alt="Sal Sleuthmander primary pose"
      width="300">
----
 
 ---
 
