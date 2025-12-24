@@ -18,7 +18,7 @@ Education
 * B.A. in Translation and Interpreting Studies, Boğaziçi University, 2016-2020
     * Translation Project: Euphemism and Ideology in Paratexts of Biographies: The Case of Biographies Translated into Turkish Between 2000‑2019
 
-Work experience
+Experience
 ======
 * June 2025-Present: COSIG Maintainer
   * Duties includes: Maintenance and editing of open-access research integrity guides; preparation of communication materials for web, social media, and events; presentation of COSIG to international audiences.
