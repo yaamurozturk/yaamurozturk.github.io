@@ -38,22 +38,18 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Talks & Presentations
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-  
-Service and leadership
+Service
 ======
 * Conference Track Organizer
   * [Making Science Better? at STS NL Conference](https://www.utwente.nl/en/bms/sts-nl2026/call-for-abstracts-for-presentations-and-posters/track-topic-abstracts/7-making-science-better/)
+    
 * Program Committee Member
-  * [Workshop for Artificial intelligence for Scientific Publications (WASP)](https://ui.adsabs.harvard.edu//WIESP/2025/ProgramCommittee)
-  * [The 4th Workshop on Scholarly Document Processing (SDP)](https://aclanthology.org/2024.sdp-1.0.pdf)
-  * [The 19th Workshop on Multiword Expressions (MWE)](https://aclanthology.org/2023.mwe-1.0.pdf)
-
- *Sub-reviewer
-   * ACL
-   * EACL 
+  * [Workshop for Artificial intelligence for Scientific Publications (WASP) 2025](https://ui.adsabs.harvard.edu//WIESP/2025/ProgramCommittee)
+  * [The 4th Workshop on Scholarly Document Processing (SDP) 2024](https://aclanthology.org/2024.sdp-1.0.pdf)
+  * [The 19th Workshop on Multiword Expressions (MWE) 2023](https://aclanthology.org/2023.mwe-1.0.pdf)
