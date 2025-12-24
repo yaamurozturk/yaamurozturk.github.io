@@ -11,35 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science & Natural Language Processing, Grenoble Alpes University, 2022-Present
+  * Dissertation: Supporting Post-Publication Peer Review of Publications Citing Retracted Literature (tentative)
+* Master's in Natural Language Processing, Sorbonne Nouvelle University, 2020-2022
+  * Thesis: A Word Embeddings Approach to Estimate Disparity in Multiword Expressions   
+* B.A. in Translation and Interpreting Studies, Boğaziçi University, 2016-2020
+    * Translation Project: Euphemism and Ideology in Paratexts of Biographies: The Case of Biographies Translated into Turkish Vetween 2000‑2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* June 2025-Present: COSIG Maintainer
+  * Duties includes: Maintenance and editing of open-access research integrity guides; preparation of communication materials for web, social media, and events; presentation of COSIG to international audiences.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* October 2022-Present: Researcher
+  * Grenoble Alpes University, LIG
+  * Duties includes: Software development, event organization, team coordination. 
+  * Supervisors: François Portet, Cyril Labbé, Frédérique Bordignon
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* February-August 2022: Research Intern
+  * Paris-Saclay University, LISN
+  * Supervisor: Agata Savary
 
 Publications
 ======
@@ -53,12 +44,16 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Conference Track Organizer
+  * [Making Science Better? at STS NL Conference](https://www.utwente.nl/en/bms/sts-nl2026/call-for-abstracts-for-presentations-and-posters/track-topic-abstracts/7-making-science-better/)
+* Program Committee Member
+  * [Workshop for Artificial intelligence for Scientific Publications (WASP)](https://ui.adsabs.harvard.edu//WIESP/2025/ProgramCommittee)
+  * [The 4th Workshop on Scholarly Document Processing (SDP)](https://aclanthology.org/2024.sdp-1.0.pdf)
+  * [The 19th Workshop on Multiword Expressions (MWE)](https://aclanthology.org/2023.mwe-1.0.pdf)
+
+ *Sub-reviewer
+   * ACL
+   * EACL 
