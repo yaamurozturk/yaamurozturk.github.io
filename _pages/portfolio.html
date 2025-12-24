@@ -8,14 +8,14 @@ author_profile: true
 {% include base_path %}
 
 
-Mascots
+<h2>Mascots</h2>
 {% for post in site.portfolio %}
   {% if post.categories contains "mascots" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
-Event Booklets
+<h2>Event Booklets</h2>
 {% for post in site.portfolio %}
   {% if post.categories contains "event-booklets" %}
     {% include archive-single.html %}
