@@ -26,7 +26,7 @@ excerpt: "this is a mascot"
 <p align="center">
   <img src="{{ '/images/newyears_sal.jpg' | relative_url }}"
        alt="Sal Sleuthmander Happy New Year version"
-       width="300">
+       width="450">
   <br>
   <strong>Happy New Year!</strong>
 </p>
