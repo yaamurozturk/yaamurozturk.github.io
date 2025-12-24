@@ -2,7 +2,7 @@
 title: "COSIG Mascot: Sal Sleuthmander"
 collection: portfolio
 categories: [mascots]
-excerpt: "COSIG's wise mascot was inspired by the [Chinese Giant Salamander](https://en.wikipedia.org/wiki/Chinese_giant_salamander). It currently has several festive modes too!"
+excerpt: "COSIG's wise mascot was inspired by the [Chinese Giant Salamander](https://en.wikipedia.org/wiki/Chinese_giant_salamander). It currently has several festive modes too! ![Alt text](/images/original_sal.png)"
 ---
 
 ---
