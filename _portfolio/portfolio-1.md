@@ -2,7 +2,7 @@
 title: "COSIG Mascot: Sal Sleuthmander"
 collection: portfolio
 categories: [mascots]
-excerpt: "this is a mascot"
+excerpt: "COSIG's wise mascot was inspired by the [Chinese Giant Salamander](https://en.wikipedia.org/wiki/Chinese_giant_salamander)"
 ---
 
 ---
