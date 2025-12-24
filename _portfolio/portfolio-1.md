@@ -12,7 +12,7 @@ excerpt: "this is a mascot"
        alt="Sal Sleuthmander primary pose"
        width="450">
   <br>
-  <strong>Primary Pose</strong>
+  <strong>Let's do PPPR!</strong>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@ excerpt: "this is a mascot"
        alt="Sal Sleuthmander Christmas mode"
        width="450">
   <br>
-  <strong>Detective Mode</strong>
+  <strong>Merry Christmas!</strong>
 </p>
 
 <p align="center">
@@ -28,6 +28,6 @@ excerpt: "this is a mascot"
        alt="Sal Sleuthmander Happy New Year version"
        width="300">
   <br>
-  <strong>Icon Version</strong>
+  <strong>Happy New Year!</strong>
 </p>
 
