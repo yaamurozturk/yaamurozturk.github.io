@@ -30,7 +30,15 @@ author_profile: true
 
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">
+    You can also find my articles on
+    <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>
+    but did you know that
+    <a href="https://www.timeshighereducation.com/news/google-scholars-citation-errors-skew-h-index-leaderboards"
+       target="_blank" rel="noopener">
+      Google Scholar is highly unreliable?
+    </a>.
+  </div>
 {% endif %}
 
 
