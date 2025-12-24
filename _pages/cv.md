@@ -16,7 +16,7 @@ Education
 * Master's in Natural Language Processing, Sorbonne Nouvelle University, 2020-2022
   * Thesis: A Word Embeddings Approach to Estimate Disparity in Multiword Expressions   
 * B.A. in Translation and Interpreting Studies, Boğaziçi University, 2016-2020
-    * Translation Project: Euphemism and Ideology in Paratexts of Biographies: The Case of Biographies Translated into Turkish Vetween 2000‑2019
+    * Translation Project: Euphemism and Ideology in Paratexts of Biographies: The Case of Biographies Translated into Turkish Between 2000‑2019
 
 Work experience
 ======
