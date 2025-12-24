@@ -1,5 +1,5 @@
 ---
-title: "Sympoium on Scientific Literature Decontamination
+title: "Sympoium on Scientific Literature Decontamination"
 collection: portfolio
 categories: [event-booklets]
 excerpt: "With Zoé Toure (previous projcet manager of Nanobubbles), we designed this in-depth booklet for the atendees of the symposium to provide them with all the necessary information during their stay. The cover page can be visualized from the link above. (I am unable to provide the whole booklet for privacy reasons)."
