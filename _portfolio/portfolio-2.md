@@ -17,7 +17,7 @@ excerpt: "I designed this mascot for the Symposium on Scientific Literature Deco
 <p align="center">
   <img src="{{ '/images/platypus_parisian.png' | relative_url }}"
        alt="Detective Platypus Parisian look"
-       width="300">
+       width="500">
   <br>
   <strong>Bienvenue à Paris!</strong>
 </p>
