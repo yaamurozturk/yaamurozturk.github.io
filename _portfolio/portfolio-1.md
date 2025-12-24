@@ -2,7 +2,7 @@
 title: "COSIG Mascot: Sal Sleuthmander"
 collection: portfolio
 categories: [mascots]
-excerpt: "COSIG's wise mascot Sal Sleuthmander is a [Chinese Giant Salamander](https://en.wikipedia.org/wiki/Chinese_giant_salamander). Their iconic look comes together with a deerstalker, ready to sleuth! They have several festive modes, check them out from the link above. <br/><img src='/images/original_sal_small.png'>"
+excerpt: "COSIG's wise mascot Sal Sleuthmander is a [Chinese Giant Salamander](https://en.wikipedia.org/wiki/Chinese_giant_salamander). Their iconic look comes together with a deerstalker, ready to sleuth! They have several festive modes, check them out from the link above. <br/><img src='/images/original_sal_small.png' width='120'>"
 
 ---
 
