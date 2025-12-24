@@ -18,7 +18,7 @@ excerpt: "COSIG's wise mascot was inspired by the [Chinese Giant Salamander](htt
 <p align="center">
   <img src="{{ '/images/christmas_sal.jpg' | relative_url }}"
        alt="Sal Sleuthmander Christmas mode"
-       width="500">
+       width="600">
   <br>
   <strong>Merry Christmas!</strong>
 </p>
