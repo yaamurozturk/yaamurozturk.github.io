@@ -22,3 +22,9 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
+<h2>Other Artworks</h2>
+{% for post in site.portfolio %}
+  {% if post.categories contains "artworks" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
