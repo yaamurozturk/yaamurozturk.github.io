@@ -53,3 +53,18 @@ Service
   * [Workshop for Artificial intelligence for Scientific Publications (WASP) 2025](https://ui.adsabs.harvard.edu//WIESP/2025/ProgramCommittee)
   * [The 4th Workshop on Scholarly Document Processing (SDP) 2024](https://aclanthology.org/2024.sdp-1.0.pdf)
   * [The 19th Workshop on Multiword Expressions (MWE) 2023](https://aclanthology.org/2023.mwe-1.0.pdf)
+ 
+Languages
+======
+* English C1 (IELTS certificated in 2019)
+* French C1 (DALF certificated in 2019)
+* Turkish (native speaker)
+
+Skills
+======
+* Programming
+  * Python, R, LaTeX,  Keras, Pytorch, Git, machine learning, natural language processing, text and data mining
+*Operating systems
+  *UNIX, Windows
+* Communication
+  * Conference and meeting organization, academic writing, social media management, communication material preparation (project blog posts and newsletter)
