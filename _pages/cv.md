@@ -55,7 +55,7 @@ Service
   * [The 19th Workshop on Multiword Expressions (MWE) 2023](https://aclanthology.org/2023.mwe-1.0.pdf)
  
 * Journal Peer Review
-  * [Research Integrity and Peer Review](https://link.springer.com/journal/41073)
+  * [Research Integrity and Peer Review](https://link.springer.com/journal/41073) (2025)
 
 Languages
 ======
