@@ -15,4 +15,5 @@ Throughout my PhD, I worked on developing methods and tools to support post-publ
 
 Alongside my academic work, I am actively involved in science communication, including co-maintaining open-access resources such as the [Collection of Open Science Integrity Guides (COSIG)](https://cosig.net/) , managing project outreach channels, and co-organizing international scientific events. As a bonus, I also very much enjoy designing booklets and mascots for such events (check out my [portfolio](https://yaamurozturk.github.io/portfolio/)) and selected [communication materials](https://yaamurozturk.github.io/year-archive/)! 
 
-Currently based in Grenoble, France. <br/><img src='/images/grenoble.jpeg'>
+ <img src='/images/grenoble.jpeg'>
+ Currently based in Grenoble, France.
