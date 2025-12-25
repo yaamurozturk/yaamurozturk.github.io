@@ -65,6 +65,6 @@ Skills
 * Programming
   * Python, R, LaTeX,  Keras, Pytorch, Git, machine learning, natural language processing, text and data mining
 *Operating systems
-  *UNIX, Windows
+  * UNIX, Windows
 * Communication
   * Conference and meeting organization, academic writing, social media management, communication material preparation (project blog posts and newsletter)
