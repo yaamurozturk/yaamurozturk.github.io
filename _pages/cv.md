@@ -54,6 +54,9 @@ Service
   * [The 4th Workshop on Scholarly Document Processing (SDP) 2024](https://aclanthology.org/2024.sdp-1.0.pdf)
   * [The 19th Workshop on Multiword Expressions (MWE) 2023](https://aclanthology.org/2023.mwe-1.0.pdf)
  
+* Journal Peer Review
+  * Research Integrity and Peer Review (https://link.springer.com/journal/41073)
+
 Languages
 ======
 * English C1 (IELTS certificated in 2019)
