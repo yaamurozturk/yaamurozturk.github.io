@@ -11,7 +11,7 @@ Glad to see you here!
 
 I am a PhD candidate in computer science working on open science, scholarly publishing, and research integrity within the European Research Council (ERC) Synergy project [*Nanobubbles*](https://nanobubbles.hypotheses.org/). This project focuses on "*How, when and why science fails to correct itself?*", and so do I. Here is a picture of my team! 
 
-<br/><img src='/images/nanobubbles.jpg'>
+<img src='/images/nanobubbles.jpg'>
 
 Throughout my PhD, I worked on developing methods and tools to support post-publication peer review and to better understand the propagation of unreliable research in the scientific literature, particularly regarding citations to retracted publications (aka the concept of [Feet of Clay](https://www.irit.fr/~Guillaume.Cabanac/problematic-paper-screener/feet-of-clay/)). You can check out my [publications](https://yaamurozturk.github.io/publications/) and [talks](https://yaamurozturk.github.io/talks/) to learn more about my research. 
 
