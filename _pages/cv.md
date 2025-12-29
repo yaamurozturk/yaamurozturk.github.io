@@ -21,11 +21,11 @@ Education
 Experience
 ======
 * June 2025-Present: COSIG Maintainer
-  * Duties includes: Maintenance and editing of open-access research integrity guides; preparation of communication materials for web, social media, and events; presentation of COSIG to international audiences.
+  * Duties include: Maintenance and editing of open-access research integrity guides; preparation of communication materials for web, social media, and events; presentation of COSIG to international audiences.
 
 * October 2022-Present: Researcher
   * Grenoble Alpes University, LIG
-  * Duties includes: Software development, event organization, team coordination. 
+  * Duties include: Software development, event organization, team coordination. 
   * Supervisors: François Portet, Cyril Labbé, Frédérique Bordignon
 
 * February-August 2022: Research Intern
