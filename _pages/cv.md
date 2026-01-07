@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science & Natural Language Processing, Grenoble Alpes University, 2022-Present
+* Ph.D. in Computer Science & Natural Language Processing, Grenoble Alpes University, 2022-Present
   * Dissertation: Supporting Post-Publication Peer Review of Publications Citing Retracted Literature (tentative)
 * Master's in Natural Language Processing, Sorbonne Nouvelle University, 2020-2022
   * Thesis: A Word Embeddings Approach to Estimate Disparity in Multiword Expressions   
