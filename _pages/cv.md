@@ -50,6 +50,7 @@ Service
   * [Making Science Better? at STS NL Conference](https://www.utwente.nl/en/bms/sts-nl2026/call-for-abstracts-for-presentations-and-posters/track-topic-abstracts/7-making-science-better/)
     
 * Program Committee Member
+  * [AISB 2026 Symposium: Hype, Promise, and Speculation: AI Bubbles and the Replication Crisis in Computer Science](https://aisb.org.uk/aisb-2026-symposium-hype-promise-and-speculation/#Programme_committee)
   * [Workshop for Artificial intelligence for Scientific Publications (WASP) 2025](https://ui.adsabs.harvard.edu//WIESP/2025/ProgramCommittee)
   * [The 4th Workshop on Scholarly Document Processing (SDP) 2024](https://aclanthology.org/2024.sdp-1.0.pdf)
   * [The 19th Workshop on Multiword Expressions (MWE) 2023](https://aclanthology.org/2023.mwe-1.0.pdf)
